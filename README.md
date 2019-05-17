@@ -60,7 +60,7 @@ Several composition datasets were used to evaluate the composition models on Eng
 
 ### Project Name
 
-The project name is a portmanteau from the words *composition* and *mixing*. It is also a (archaic) verb, meaning *to mix, to mingle*. The project name is pronounced just like the word *comics*. A nice sample of composition-related comics can be found [here](https://laughingsquid.com/animals-with-misleading-names/).
+The project name is a portmanteau from the words *composition* and *mix*. It is also a (archaic) verb, meaning *to mix, to mingle*. The project name is pronounced just like the word *comics*.
 
 <img src="img/commix.png" width="600">
 

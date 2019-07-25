@@ -2,7 +2,7 @@
 
 Code for the paper:
 
-Corina Dima, Daniël de Kok, Neele Witte, Erhard Hinrichs. 2019. No Word is an Island — a Transformation Weighting Model for Semantic Composition. Transactions of the Association for Computational Linguistics 2019.
+Corina Dima, Daniël de Kok, Neele Witte, Erhard Hinrichs. 2019. [No Word is an Island — a Transformation Weighting Model for Semantic Composition](https://arxiv.org/abs/1907.05048). Transactions of the Association for Computational Linguistics 2019.
 
 Creating phrasal representations, and in particular representing 
 low-frequency phrases like *purple car* is a task for
